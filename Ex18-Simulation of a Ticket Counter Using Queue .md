@@ -126,6 +126,7 @@ public class TicketCounter {
 ```
 
 ## Output:
+<img width="1322" height="709" alt="image" src="https://github.com/user-attachments/assets/f40f832b-87d0-48de-a57d-e8345b2818da" />
 
 
 
