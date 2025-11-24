@@ -79,6 +79,7 @@ public class ParenChecker {
 ```
 
 ## Output:
+<img width="1293" height="290" alt="image" src="https://github.com/user-attachments/assets/72131d5a-e46d-48cb-a4f3-d3a7ee75ad80" />
 
 
 
