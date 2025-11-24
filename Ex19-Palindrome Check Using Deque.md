@@ -63,6 +63,7 @@ public class PalindromeChecker {
 ```
 
 ## Output:
+<img width="1267" height="318" alt="image" src="https://github.com/user-attachments/assets/6e7527fd-49be-430c-a111-5bc63f896c34" />
 
 
 
