@@ -48,6 +48,7 @@ public class ReverseStringWithStack {
 }
 ```
 ## Output:
+<img width="1291" height="285" alt="image" src="https://github.com/user-attachments/assets/1148eae1-6f96-41f6-b360-48f56040a286" />
 
 
 
